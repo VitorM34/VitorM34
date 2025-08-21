@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+sou+Vitor!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Vitor!)](https://git.io/typing-svg)
 
-- 🔭 Trabalhando como Desenvolverdor
-- 📖 Cursando Ciências da Computação - 4ºsemestre - Estácio/Ribeirão Preto - SP 
-- 🌱 Estudando C, HMTL, CSS, Javascript, Ruby e Rails, Postgresql, Python
-
-##
+- 🔭 Working as a Developer  
+- 📖 Studying Computer Science - 4th semester - Estácio/Ribeirão Preto - SP  
+- 🌱 Currently learning C, HTML, CSS, JavaScript, Ruby & Rails, PostgreSQL, Python  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorM34&show_icons=true&theme=tokyonight&card_width=400" />
