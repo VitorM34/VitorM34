@@ -2,7 +2,7 @@
 
 - 🔭 Working as a Developer  
 - 📖 Studying Computer Science - 4th semester - Estácio/Ribeirão Preto - SP  
-- 🌱 Currently learning C, HTML, CSS, JavaScript, Ruby & Rails, PostgreSQL, Python  
+- 🌱 Currently learning C, HTML, CSS, JavaScript, Ruby & Rails, PostgreSQL, Golang
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorM34&show_icons=true&theme=tokyonight&card_width=400" />
@@ -18,8 +18,7 @@
   <img align="center" alt="Caio-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original. />
+  <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
 
 </div>
