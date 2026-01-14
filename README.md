@@ -16,13 +16,6 @@ Git, GitHub, Postman, Docker, and macOS development environments.
 
 💬 “Driven by curiosity and the desire to turn learning into code — every project is a step forward.”
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorM34&show_icons=true&theme=tokyonight&card_width=400" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorM34&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
-</a>
-
 <p></p>
 
 <div>
@@ -37,8 +30,6 @@ Git, GitHub, Postman, Docker, and macOS development environments.
   <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
   <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-
 
 
 </div>
