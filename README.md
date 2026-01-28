@@ -1,20 +1,48 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Vitor!)](https://git.io/typing-svg)
 
-- 🔭 Working as a Developer  
-- 📖 Studying Computer Science - 4th semester - Estácio/Ribeirão Preto - SP  
-- I’m currently building projects and improving my skills with these technologies:
--	🧠 Learning and exploring:
-Go (Golang), Ruby on Rails, Docker, AWS, and PostgreSQL — focusing on understanding the fundamentals, best practices, and deployment workflows.
--	💻 Front-end:
-HTML, CSS, TailwindCSS, and JavaScript (with Alpine.js) — creating clean, responsive, and modern interfaces.
--	⚙️ Back-end & Development:
-Ruby on Rails as my main framework, integrating REST APIs, authentication with Devise, and real-time updates with Turbo.
-- 🧰 Everyday tools:
-Git, GitHub, Postman, Docker, and macOS development environments.
+## 👋 About Me
 
-📈 I enjoy understanding how technologies connect — from code to deployment — and I’m always building personal projects to level up my development skills.
+- 🔭 **Junior Full Stack Developer at TrailDev**
+- 📖 **Computer Science student** - 5th semester at Estácio/Ribeirão Preto - SP
+- 💼 Working with Ruby on Rails, PostgreSQL, and building web applications
 
-💬 “Driven by curiosity and the desire to turn learning into code — every project is a step forward.”
+## 🛠️ Tech Stack
+
+**Backend:**
+- Ruby on Rails (main framework)
+- Python/Flask (freelance projects)
+- PostgreSQL, MySQL
+- REST APIs
+
+**Frontend:**
+- HTML, CSS, TailwindCSS
+- JavaScript, Alpine.js
+- React with TypeScript
+
+**DevOps & Tools:**
+- Docker
+- AWS (EC2, RDS, Route 53)
+- Git, GitHub, Postman
+- Claude Code, Amazon Q, Cursor
+
+**Practices:**
+- TDD with RSpec
+- Scrum & Kanban
+- GitFlow
+- Code Review
+
+## 🌱 Learning
+
+- Go (Golang)
+- AWS
+- Advanced Rails patterns
+
+
+*"Every project is a chance to learn and improve. I focus on writing clean code and understanding how things work from development to deployment."*
+
+---
+
+📫 **Contact:** vitorluistresoldiluis@gmail.com | 🌐 **English:** Intermediate
 
 <p></p>
 
@@ -30,6 +58,9 @@ Git, GitHub, Postman, Docker, and macOS development environments.
   <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
   <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Caio-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
 
 
 </div>
