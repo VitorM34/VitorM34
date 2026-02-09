@@ -10,7 +10,7 @@
 
 **Backend:**
 - Ruby on Rails (main framework)
-- Python/Flask (freelance projects)
+- Java and Spring 
 - PostgreSQL, MySQL
 - REST APIs
 
@@ -21,7 +21,7 @@
 
 **DevOps & Tools:**
 - Docker
-- AWS (EC2, RDS, Route 53)
+- AWS (EC2, RDS, Route 53, Lambdas and Load Balancer)
 - Git, GitHub, Postman
 - Claude Code, Amazon Q, Cursor
 
@@ -33,7 +33,7 @@
 
 ## 🌱 Learning
 
-- Go (Golang)
+- Java and Spring - Udemy
 - AWS
 - Advanced Rails patterns
 
