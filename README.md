@@ -4,25 +4,29 @@
 - 📖 **Computer Science student** - 5th semester at Estácio/Ribeirão Preto - SP
 - 💼 Working with Ruby on Rails, PostgreSQL, and building web applications
 ## 🛠️ Tech Stack
+
 **Backend:**
 - Ruby on Rails (main framework)
 - Java and Spring 
 - PostgreSQL, MySQL
 - REST APIs
+  
 **Frontend:**
 - HTML, CSS, TailwindCSS
 - JavaScript, Alpine.js
 - React with TypeScript
+  
 **DevOps & Tools:**
 - Docker
 - AWS (EC2, RDS, Route 53, Lambdas and Load Balancer)
 - Git, GitHub, Postman
-- Claude Code, Amazon Q, Cursor
+  
 **Practices:**
 - TDD with RSpec
 - Scrum & Kanban
 - GitFlow
 - Code Review
+  
 ## 🌱 Learning
 - Java and Spring - Udemy
 - AWS
