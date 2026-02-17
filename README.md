@@ -30,22 +30,27 @@
 *"Every project is a chance to learn and improve. I focus on writing clean code and understanding how things work from development to deployment."*
 ---
 📫 **Contact:** vitorluistresoldiluis@gmail.com | 🌐 **English:** Intermediate
-<p></p>
+
+<br/>
+
 <div>
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/ruby.svg"/>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/java.svg"/>
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/spring.svg"/>
-  <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/rails.svg"/>
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/postgresql.svg"/>
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/docker.svg"/>
-  <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/postman.svg"/>
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/aws.svg"/>
-  <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/redis.svg"/>
-  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/VitorM34/-icons/main/jira.svg"/>
+  <img align="center" alt="Ruby" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/ruby.svg"/>
+  <img align="center" alt="Java" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/java.svg"/>
+  <img align="center" alt="Spring" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/spring.svg"/>
+  <img align="center" alt="Rails" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/rails.svg"/>
+  <img align="center" alt="PostgreSQL" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/postgresql.svg"/>
+  <img align="center" alt="Docker" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/docker.svg"/>
+  <img align="center" alt="Postman" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/postman.svg"/>
+  <img align="center" alt="AWS" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/aws.svg"/>
+  <img align="center" alt="Redis" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/redis.svg"/>
+  <img align="center" alt="RabbitMQ" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/jira.svg"/>
 </div>
 
+<br/>
+<br/>
+
 <div> 
-  <a href = "mailto:vitorluistresoldiluis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:vitorluistresoldiluis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitorlt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/016992866696" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
