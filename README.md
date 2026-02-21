@@ -39,8 +39,6 @@
 
 <div>
   <img align="center" alt="Ruby" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/ruby.svg"/>
-  <img align="center" alt="Java" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/java.svg"/>
-  <img align="center" alt="Spring" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/spring.svg"/>
   <img align="center" alt="Rails" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/rails.svg"/>
   <img align="center" alt="PostgreSQL" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/postgresql.svg"/>
   <img align="center" alt="Docker" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/docker.svg"/>
