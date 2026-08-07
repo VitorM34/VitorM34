@@ -12,6 +12,8 @@
 - C# and .NET
 - PostgreSQL, MySQL
 - REST APIs
+- MongoDB
+- RabbitMQ
 
 **Frontend:**
 - HTML, CSS, TailwindCSS
