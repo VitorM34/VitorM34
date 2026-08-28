@@ -1,19 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Vitor!)](https://git.io/typing-svg)
 
 ## 👋 About Me
-- 🔭 **Junior Full Stack Developer at TrailDev**
-- 📖 **Computer Science student** - 5th semester at Estácio/Ribeirão Preto - SP
-- 💼 Working with Ruby on Rails, PostgreSQL, and building web applications
+- 🔭 **Backend Developer at TrailDev**
+- 📖 **Computer Science student** at Estácio de Sá - Ribeirão Preto, SP
+- 💼 Working with Ruby on Rails, PostgreSQL, AWS, and production applications
+- 🚀 Expanding my expertise in C# and .NET, focusing on backend development and software architecture
 
 ## 🛠️ Tech Stack
 
 **Backend:**
-- Ruby on Rails (main framework)
+- Ruby on Rails
 - C# and .NET
+- ASP.NET Core
 - PostgreSQL, MySQL
 - REST APIs
-- MongoDB
+- Redis
+- Sidekiq
 - RabbitMQ
+- MongoDB
 
 **Frontend:**
 - HTML, CSS, TailwindCSS
@@ -22,24 +26,35 @@
 
 **DevOps & Tools:**
 - Docker
-- AWS (EC2, RDS, Route 53, Lambdas and Load Balancer)
+- Terraform
+- AWS (EC2, S3, RDS, Lambda, Route 53, IAM, VPC, Load Balancer, EKS)
+- GitHub Actions
+- CI/CD
 - Git, GitHub, Postman
 
 **Practices:**
-- TDD with RSpec
-- Scrum & Kanban
-- GitFlow
+- Clean Architecture
+- SOLID
+- RSpec
+- Automated Testing
+- Integration Testing
+- Dependency Injection
 - Code Review
+- GitFlow
+- Scrum & Kanban
 
 ## 🌱 Learning
-- C# and .NET - Udemy
+- C# and .NET
+- ASP.NET Core
+- Entity Framework Core
+- Software Architecture
 - AWS
 - Advanced Rails patterns
 
-*"Every project is a chance to learn and improve. I focus on writing clean code and understanding how things work from development to deployment."*
+*"Every project is a chance to learn and improve. I focus on writing clean code, solving real problems, and understanding how things work from development to deployment."*
 
 ---
-📫 **Contact:** vitorluistresoldiluis@gmail.com | 🌐 **English:** Intermediate
+📫 **Contact:** vitorluistresoldiluis@gmail.com | 🌐 **English:** Intermediate (B1)
 <br/>
 
 <div>
@@ -51,4 +66,5 @@
   <img align="center" alt="Docker" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/docker.svg"/>
   <img align="center" alt="Postman" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/postman.svg"/>
   <img align="center" alt="AWS" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/aws.svg"/>
-  <img align="center" alt="Redis" hei
+  <img align="center" alt="Redis" height="65" width="65" src="https://raw.githubusercontent.com/VitorM34/-icons/main/redis.svg"/>
+</div>
